@@ -6,4 +6,4 @@ Technically speaking, the plugin takes user input in terms of facade panels geom
 
 (This is an earlier version implementing the FE subdivision and ASCII syntax generation. The plugin was developed further internally.)
 
-[For more information:](https://ilyasabdelmoula.com/FacadeFE)
+For more information: [link](https://ilyasabdelmoula.com/FacadeFE)
